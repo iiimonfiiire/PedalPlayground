@@ -5404,6 +5404,41 @@
 		"Image": "caline-pure-sky.png"
 	},
 	{
+		"Brand": "Carcharias Effects",
+		"Name": "Sagan Delay",
+		"Width": 4.7,
+		"Height": 4,
+		"Image": "carcharias-effects-sagan-delay.png"
+	},
+	{
+		"Brand": "Carcharias Effects",
+		"Name": "Sagan Delay 1",
+		"Width": 5.36,
+		"Height": 3.97,
+		"Image": "carcharias-effects-sagan-delay-1.png"
+	},
+	{
+		"Brand": "Carcharias Effects",
+		"Name": "Eight Below",
+		"Width": 2.85,
+		"Height": 4.65,
+		"Image": "carcharias-effects-eight-below.png"
+	},
+	{
+		"Brand": "Carcharias Effects",
+		"Name": "Lemon Haze",
+		"Width": 2.75,
+		"Height": 4.47,
+		"Image": "carcharias-effects-lemon-haze.png"
+	},
+	{
+		"Brand": "Carcharias Effects",
+		"Name": "Nice Marmot",
+		"Width": 4.8,
+		"Height": 2.4,
+		"Image": "carcharias-effects-nice-marmot.png"
+	},
+	{
 		"Brand": "Carl Martin",
 		"Name": "Ampster",
 		"Width": 5.7,
